@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  ms_products:
+    image: msproducts
+    build:
+      context: .
+      dockerfile: MS_Products\Dockerfile
