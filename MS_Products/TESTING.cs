@@ -7,5 +7,6 @@ namespace MS_Products
 {
     public class TESTING
     {
+        public int MyProperty { get; set; }
     }
 }
